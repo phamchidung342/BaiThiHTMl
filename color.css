@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(60, 59, 59);
+}
+h1{
+   color: white;
+   margin-left: 650px;
+   margin-top: 50px;
+}
+li{
+    display: inline;
+    color: white;
+    margin-left: 325px;
+    
+}
+.profile{
+    background-color: white;
+    width: 1098px;
+    min-height: 500px;
+    float:left;
+    margin-bottom: 5px;
+
+}
+.profile img{
+    width: 15;
+}
+.info{
+    background-color: white;
+    width: 400px;
+    min-height: 500px;
+    float: right;
+}
+#footer{
+    text-align: center;
+    height: 30px;
+    clear: both;
+    border: 1px solid #CDCDCD;
+    background-color: #F8F8FF;
+}
+
